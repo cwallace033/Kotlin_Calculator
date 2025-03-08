@@ -1,5 +1,4 @@
 # Overview
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
 In this software my goal was to create a simple calculator that could add, subtract, multiply, divide, find the square, and square root of a number. I accomplished this by using three functions:
 One for the basic calculations, one for finding the square of a number, and one for finding the square root of a number. 
 
