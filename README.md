@@ -14,8 +14,8 @@ I used IntelliJ IDEA to write my program in. I also had to import math.sqrt in o
 # Useful Websites
 
 
-- [Kotlin Calculator]([http://url.link.goes.here](https://medium.com/@thaer.alkhishen/kotlin-calculator-basic-setup-1aa7e3fe41af))
-- [Jetbrains]([http://url.link.goes.here](https://www.jetbrains.com/help/idea/create-your-first-kotlin-app.html))
+- [Kotlin Calculator](https://medium.com/@thaer.alkhishen/kotlin-calculator-basic-setup-1aa7e3fe41af)
+- [Jetbrains](https://www.jetbrains.com/help/idea/create-your-first-kotlin-app.html)
 
 # Future Work
 
