@@ -4,7 +4,7 @@ One for the basic calculations, one for finding the square of a number, and one 
 
 The goal I had for writing this software was to learn how to use the language Kotlin. This is the first project that I have made using Kotlin. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Jx-7QZAHyUY)
 
 # Development Environment
 
